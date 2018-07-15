@@ -11,7 +11,7 @@ a los siguientes usuarios:
 
 mariogl
 
-Si eres alguno de los reviewers no hace falta que añadas tu usuario. Cuando aprueben y mergeen tu Pull Request, puedes borrar tu rama local.
+Si eres alguno de los reviewers no hace falta que añadas tu usuario. Cuando aprueben y mergeen tu Pull Request, puedes borrar tu rama local y marcar la tarea como resuelta.
 
 NOTA PARA REVIEWERS: Cada vez que te llegue un Pull Request, debes revisarlo. Si está OK, puedes aprobarlo (no mergearlo), y si no, puedes pedirle cambios al autor 
 a partir de los comentarios. Si eres el último en revisar, 
