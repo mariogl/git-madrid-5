@@ -12,6 +12,7 @@ a los siguientes usuarios:
 mariogl
 jfmartinezd_lin
 vanessa2018
+saulodom
 
 Si eres alguno de los reviewers no hace falta que añadas tu usuario. Cuando aprueben y mergeen tu Pull Request, puedes borrar tu rama local y marcar la tarea como resuelta.
 
