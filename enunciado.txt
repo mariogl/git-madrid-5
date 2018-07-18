@@ -1,12 +1,11 @@
 1. Revisa qué ramas te has bajado del repositorio y asegúrate de que en tu repositorio local acabas teniendo las mismas ramas.
-2. Ve a este panel de Trello y busca la lista con tu nombre: https://trello.com/b/a6VMeFHU/library
-3. Comprueba que tienes asociada la cuenta de BitBucket a un correo electrónico real que puedas consultar desde el aula.
-4. Ve al listado de issues del repositorio y realiza las tareas asignadas a tu usuario. Cada vez que vayas a empezar una tarea:
+2. Comprueba que tienes asociada la cuenta de BitBucket a un correo electrónico real que puedas consultar desde el aula.
+3. Ve al listado de issues del repositorio y realiza las tareas asignadas a tu usuario. Cada vez que vayas a empezar una tarea:
 
 - actualiza tu copia local de develop, para tener el código más reciente
 - crea una rama nueva a partir de develop, nombra a la rama con el número de issue: issue-1, issue-2, etc.
 
-5. Cada vez que termines una tarea, sube la rama al repositorio remoto y crea un Pull Request. No la marques como aprobada y añade como reviewers 
+4. Cada vez que termines una tarea, sube la rama al repositorio remoto y crea un Pull Request. No la marques como aprobada y añade como reviewers 
 a los siguientes usuarios:
 
 mariogl
