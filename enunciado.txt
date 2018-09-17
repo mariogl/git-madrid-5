@@ -6,11 +6,8 @@
 - crea una rama nueva a partir de develop, nombra a la rama con el número de issue: issue-1, issue-2, etc.
 - recuerda crear mensajes descriptivos para los commits: para facilitar el trabajo de revisión, comienza los mensajes con el número de issue.
 
-4. Cada vez que termines una tarea, sube la rama al repositorio remoto y crea un Pull Request. No la marques como aprobada y añade como reviewers 
-a los siguientes usuarios:
-
-
-Si eres alguno de los reviewers no hace falta que añadas tu usuario. Cuando aprueben y mergeen tu Pull Request, puedes borrar tu rama local y marcar la tarea como resuelta.
+4. Cada vez que termines una tarea, sube la rama al repositorio remoto y crea una Pull Request (no la marques como aprobada). Cuando aprueben y mergeen tu Pull Request, 
+puedes borrar tu rama local y marcar la  (issue) como resuelta.
 
 5. Si en una Pull Request algún revisor te indica que hagas cambios en el código, realízalos en local, vuelve a subir la rama y escribe un comentario diciendo que ya está hecho.
 
